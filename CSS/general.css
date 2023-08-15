@@ -1,0 +1,11 @@
+*:focus {
+  outline: none;
+  /* outline: 4px dotted #e67e22; */
+  /* outline-offset: 8px; */
+  box-shadow: 0 0 0 0.5rem rgb(230 125 34 / 50%);
+}
+a {
+  text-decoration: none;
+  color: rgb(132, 118, 118);
+  font-size: smaller;
+}
